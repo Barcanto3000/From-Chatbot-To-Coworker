@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>From Chatbot to Coworker – $5 Guide</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, system-ui, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #222; }
+    header { padding: 3rem 1.5rem; text-align: center; background: #f5f7fb; }
+    header h1 { margin: 0 0 0.5rem; font-size: 2.5rem; }
+    header p { margin: 0.25rem 0; max-width: 640px; margin-left: auto; margin-right: auto; }
+    .btn { display: inline-block; margin-top: 1.5rem; padding: 0.75rem 1.75rem; background: #111827; color: #fff; text-decoration: none; border-radius: 999px; font-weight: 600; }
+    .btn:hover { background: #1f2937; }
+    main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem 3rem; }
+    section { margin-bottom: 2rem; }
+    h2 { margin-top: 0; margin-bottom: 0.5rem; font-size: 1.6rem; }
+    ul { padding-left: 1.25rem; }
+    .muted { color: #6b7280; font-size: 0.9rem; }
+    footer { text-align: center; padding: 1.5rem; font-size: 0.85rem; color: #6b7280; border-top: 1px solid #e5e7eb; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>From Chatbot to Coworker</h1>
+    <p>A practical, human‑sized guide to making AI actually help with your life and small business — without becoming “an AI person.”</p>
+    <p class="muted">PDF guide · Short, clear, and built from real use — not AI hype.</p>
+    <a href="https://barcanto.gumroad.com/l/gcdvhs" class="btn">Get the guide – $5 (PDF)</a>
+  </header>
+
+  <main>
+    <section>
+      <h2>Who this is for</h2>
+      <ul>
+        <li>You’re curious about AI but feel overwhelmed by all the tools, apps, and jargon.</li>
+        <li>You have a life and/or small business to run and no time to learn to code.</li>
+        <li>You’ve tried chatbots, got a few cool answers, and then… didn’t know what to do next.</li>
+        <li>You don’t want hype. You want practical help: clearer emails, better plans, less chaos.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>What’s inside the guide</h2>
+      <ul>
+        <li><strong>The right mental model</strong> – how to treat AI as a smart but forgetful junior partner instead of a magic robot CEO.</li>
+        <li><strong>Everyday life use cases</strong> – turn brain fog into clear lists, draft tricky messages, plan realistic days, and translate confusing letters into plain language.</li>
+        <li><strong>Small‑business use cases</strong> – email triage, offers from messy notes, simple marketing content, and lightweight numbers checks.</li>
+        <li><strong>Copy‑and‑paste prompts</strong> – ready‑made prompts you can drop into any AI chat app to plan your day, review your week, and clean up your writing.</li>
+        <li><strong>Safety & sanity rules</strong> – simple guardrails so you don’t cross lines with money, privacy, or trust.</li>
+        <li><strong>Optional advanced mode</strong> – a look at running an AI assistant on a small computer (like a Mac mini) that can send emails, schedule things, and help build online projects.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Why listen to me?</h2>
+      <div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap;">
+        <img src="antonio.jpg" alt="Photo of Antonio" style="width:140px; border-radius:12px; object-fit:cover; flex-shrink:0;" />
+        <div>
+          <p>Hi, I’m Antonio. I’ve spent 15+ years building a real estate portfolio (~50 rental units) and running my own companies. I’m not a Silicon Valley founder or a full‑time engineer. I’m a dad with a real life, a daughter, and a lot of responsibility.</p>
+          <p>When AI tools exploded, I tried the usual chat apps and got some neat answers, but nothing really changed in my day‑to‑day. So I went a step further:</p>
+          <ul>
+            <li>I set up a small Mac mini to run an AI assistant locally.</li>
+            <li>I wired it into email so it can draft and send real messages.</li>
+            <li>I added a scheduler so it can fire off emails and tasks at the right times.</li>
+            <li>I started using it to help build an online business — not just answer questions.</li>
+          </ul>
+          <p>This guide is the practical version of what I wish I had at the beginning: plain language, real examples, no hype.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="buy">
+      <h2>Get the guide</h2>
+      <p>When you grab <strong>From Chatbot to Coworker</strong>, you get:</p>
+      <ul>
+        <li>A PDF you can read on your phone, tablet, or computer (and print if you like).</li>
+        <li>A set of ready‑to‑use prompts you can drop into any AI chat app.</li>
+        <li>A simple mental model and workflow you can grow with over time.</li>
+      </ul>
+      <p><strong>Format:</strong> PDF<br>
+         <strong>Length:</strong> Short enough to finish in a sitting or two, long enough to be useful.<br>
+         <strong>Price:</strong> <strong>$5</strong></p>
+      <a href="https://barcanto.gumroad.com/l/gcdvhs" class="btn">Get the guide – $5 (PDF)</a>
+    </section>
+
+    <section>
+      <h2>Don’t want to do it alone?</h2>
+      <p>If you’d rather not figure everything out yourself, I also offer a small number of done‑for‑you setup sessions, where I help you:</p>
+      <ul>
+        <li>Choose the right AI tools for where you are.</li>
+        <li>Set up an AI assistant on your computer (similar to my own Mac mini setup).</li>
+        <li>Wire it into your email and basic tools.</li>
+        <li>Give you a handful of automations tailored to your life or small business.</li>
+      </ul>
+      <p>This is a separate, premium service with limited slots. If you’re interested, email: <strong>MRBarcelonaa@yahoo.com</strong> with the subject line <strong>"AI setup help"</strong> and tell me a bit about your situation.</p>
+    </section>
+
+    <section>
+      <h2>FAQ</h2>
+      <p><strong>Do I need to be technical to use this?</strong><br>
+      No. If you can type a message into an AI chat app, you can use what’s in this guide.</p>
+
+      <p><strong>Which AI app does this work with?</strong><br>
+      Any good general‑purpose AI chat app (ChatGPT, Claude, etc.). The prompts and patterns are not tied to a single provider.</p>
+
+      <p><strong>Will this guide make AI run my whole business for me?</strong><br>
+      No. It will help you use AI as a powerful assistant — drafting, planning, cleaning up, and helping you think — while you stay in control.</p>
+
+      <p><strong>Can I see what’s in the guide before I buy?</strong><br>
+      Once the checkout is wired up, we can add a short sample (a page or two from the intro or the quick‑start prompts).</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year"></span> From Chatbot to Coworker · Antonio Barcelona</p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
